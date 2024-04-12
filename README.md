@@ -1,5 +1,6 @@
-## Esse programa tem a função de descobrir portas abertas em um host.
+## Port-Scan.
 - Mensionei no exemplo a página http://businesscorp.com.br que usei no curso Pentest profissional da Desec Security.
+- Esse programa tem a função de descobrir portas abertas em um host.
   
 ### Exemplo de uso:
 - `python3 portscan.py businesscorp.com.br` (Este comando varre todas as 65535 portas)
